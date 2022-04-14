@@ -3,7 +3,7 @@ Provide the folder path of your .txt files.
 Program will output a csv file in the same directory of where this program is located.  
 
 
-Install requirements.txt
+Install requirements
 
 run:
  python3 app.py
